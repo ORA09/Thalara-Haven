@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enquiry - Thalara Haven Retreat</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+  <div class="logo">
+    <img src="images/logo.png" alt="Thalara Haven Logo">
+    <h1>Thalara Haven Retreat</h1>
+  </div>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="rooms-dining.html">Rooms & Dining</a></li>
+      <li><a href="experiences.html">Experiences</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="enquiry.html">Enquiry</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+  <main class="container">
+  <h2>Booking Enquiry</h2>
+  <p>Fill in your details below and we’ll get back to you with availability and options.</p>
+
+  <article class="card" style="max-width: 600px; margin:auto;">
+    <form>
+      <label for="fullname">Full Name:</label>
+      <input type="text" id="fullname" required>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" required>
+
+      <label for="phone">Phone:</label>
+      <input type="tel" id="phone">
+
+      <label for="checkin">Check-in Date:</label>
+      <input type="date" id="checkin" required>
+
+      <label for="checkout">Check-out Date:</label>
+      <input type="date" id="checkout" required>
+
+      <label for="room">Room Type:</label>
+      <select id="room">
+        <option value="luxury">Luxury Suite</option>
+        <option value="standard">Standard Room</option>
+        <option value="family">Family Cottage</option>
+      </select>
+
+      <button type="submit" class="cta">Submit Enquiry</button>
+    </form>
+  </article>
+</main>
+  <footer>
+    <p>&copy; 2025 Thalara Haven Retreat</p>
+  </footer>
+</body>
+</html>
