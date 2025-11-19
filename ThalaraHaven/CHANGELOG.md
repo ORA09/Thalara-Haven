@@ -1,29 +1,58 @@
-# Thalara Haven Retreat – Changelog (Part 2)
+# CHANGELOG – Thalara Haven Retreat
 
-This file records updates made during *Part 2* of the WEDE5020 POE.
-
----
-
-## 📌 Version 2.0 – 26 September 2025
-- Added external style.css for consistent design
-- Applied responsive styling to navigation, images, and gallery
-- Created hero banner for homepage with call-to-action button
-- Updated *About* page with mission, vision, values, and location details
-- Updated *Rooms & Dining* with:
-  - Standard Room, Luxury Suite, Family Cottage
-  - Multiple images per room (bedroom, bathroom, amenities)
-  - Linked breakfast, dinner, and drinks menus (PDFs)
-- Updated *Experiences* page with activities and linked activity schedule (PDF)
-- Created *Gallery* with thumbnail, medium, and large image versions
-- Added JavaScript lightbox for gallery images
-- Added enquiry and contact forms with basic JavaScript validation
-- Improved accessibility: alt text for all images, semantic HTML5 structure
+## Version 1.0 — Part 1 (Initial Submission)
+- Submitted proposal document  
+- Identified client needs  
+- Defined website requirements  
+- Outlined site map and page structure  
 
 ---
 
-## 📌 Version 1.0 – 27 August 2025
-- Initial Part 1 prototype: HTML page skeletons created
-- Placeholder text for About, Rooms, Experiences, and Gallery
-- Navigation and footer structure added
-- Project folder structure created (css/, js/, images/, docs/)
-- Proposal document submitted (Part 1)
+## Version 2.0 — Part 2 (Website Build)
+### Added
+- Full multi-page responsive website  
+- Navigation bar  
+- Hero section with CTA  
+- Rooms & dining content  
+- Experiences page  
+- Gallery page layout  
+- Enquiry and contact forms  
+- Lightbox gallery functionality  
+- Folder structure (css/js/images)
+- Basic CSS styling  
+
+### Fixed / Improved
+- Image alignment  
+- Page layout & spacing  
+- Readability improvements  
+- Alt text added  
+- Typography adjustments  
+
+---
+
+## Version 3.0 — Part 3 (Final Enhancements)
+### Added
+- Interactive Google Map  
+- Scroll-to-top button  
+- Advanced form validation via JavaScript  
+- Fade-in animations  
+- Hover transitions  
+- Responsive image srcset  
+- Media queries & breakpoints  
+- SEO meta tags  
+- Additional food, room and gallery images  
+- Cleaner room grids  
+- Improved gallery layout (3 per row)
+
+### Improved
+- Overall responsiveness  
+- Cross-device layout fixes  
+- Hero styling  
+- Nav spacing & resizing  
+- Modernised look  
+- Updated all pages with animations + accessibility
+
+### Documentation
+- Updated README.md  
+- Added complete CHANGELOG.md  
+- Final GitHub version synced and organised

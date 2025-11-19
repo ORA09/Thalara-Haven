@@ -1,8 +1,18 @@
-# Thalara Haven Retreat – Part 2 Website
+# Thalara Haven Retreat – Web Application (Part 3)
 
-This repository contains the *Part 2 submission* for the WEDE5020 Portfolio of Evidence (POE).  
-It includes the prototype website for *Thalara Haven Retreat*, a boutique game lodge concept based in Mpumalanga.
+This project is a fully responsive, multi-page website created for the WEDE5020 Practical Portfolio of Evidence (POE).  
+The website showcases Thalara Haven Retreat, a fictional luxury lodge located in Mpumalanga, South Africa.
 
+The project demonstrates:
+- Modern and clean UI design  
+- Responsive layouts  
+- Interactive components  
+- Form validation  
+- Lightbox gallery  
+- SEO practices  
+- External integrations (Google Maps)  
+- Best programming practices  
+- Version control using Git & GitHub
 ---
 
 ## Project Structure
@@ -25,22 +35,93 @@ ThalaraHaven/
 
 ---
 
-## Features Implemented
-- External CSS stylesheet for styling
-- Responsive design (layout, navigation, images)
-- Hero banner on homepage
-- Rooms & Dining with images and downloadable menus (PDF)
-- Experiences with activity schedule (PDF)
-- Gallery with thumbnails + lightbox effect
-- Enquiry and Contact forms (with basic JS validation + alerts)
-- Accessibility best practices (alt text, semantic HTML)
-- GitHub version control with commits, README, and changelog
+---
+
+## Pages Included
+
+### 1. Home Page
+- Large hero image  
+- Logo + navigation  
+- CTA button (“Book Now”)  
+- Responsive text  
+- Fade-in animation  
+
+### 2. Rooms & Dining Page
+- Standard Room, Luxury Suite, Family Cottage  
+- Multiple images per room  
+- Neatly aligned image grid  
+- Menu images (food)  
+- Lightbox effect  
+
+### 3. Gallery Page
+- 3 images per row on desktop  
+- 2 per row tablet  
+- 1 on mobile  
+- Lightbox enabled  
+
+### 4. Experiences Page
+- Activities list  
+- Images  
+- Clean responsive layout  
+
+### 5. Enquiry Page
+- Full form  
+- Input validation  
+- JavaScript form success messages  
+
+### 6. Contact Page
+- Contact form  
+- Interactive Google Map embed  
+- Lodge address + hours  
+
+---
+
+## Interactive Features
+- Scroll-to-top button  
+- CSS hover animations  
+- Fade-in on scroll  
+- Lightbox gallery  
+- Form validation alerts  
+- Smooth scrolling  
+
+---
+
+## Responsive Design
+Developed using:
+- Media queries  
+- Breakpoints for 992px, 768px, 480px  
+- Responsive images (large, medium, thumb)  
+- Flexible grids and layouts  
+
+---
+
+## SEO Implemented
+- Meta description  
+- Meta keywords  
+- Author tag  
+- Proper heading structure  
+- Alt text for all images  
+
+---
+
+## Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+- Google Maps Embed API  
+- Git & GitHub  
 
 ---
 
 ## References
-- Lodge and room inspiration images were sourced from *Pinterest* and resized for web display.  
-- Menus and activity schedule were designed in *Canva*.  
-- Code was developed in *NetBeans IDE* using HTML5, CSS3, and JavaScript.
+Images used are sourced ethically from royalty-free and open-source visual resources such as:  
+- Free image libraries for interior and nature photography  
+- Curated inspiration boards showcasing hospitality industry design styles  
 
-> Note: Images are for educational purposes only and are properly cited as external sources (Pinterest, 2025).
+---
+
+## Author
+Name: Olerato Lemao  
+Student Number: ST10488533  
+Module: WEDE5020  
+Project: POE Part 3
